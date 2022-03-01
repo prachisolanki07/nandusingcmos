@@ -1,13 +1,13 @@
 # CMOS Used As NAND Application
 # Table of Content
-- [ABSTRACT](https://github.com/prachisolanki07/nandusingcmos/edit/main/README.md#abstract)
-- [Introduction](https://github.com/prachisolanki07/nandusingcmos/edit/main/README.md#introduction)
-- [Design Approach](https://github.com/prachisolanki07/nandusingcmos/edit/main/README.md#design-approach)
-- [2- Input NAND Gate Using CMOS](https://github.com/prachisolanki07/nandusingcmos/edit/main/README.md#2--input-nand-gate-using-cmos)
-- [Tools Used](https://github.com/prachisolanki07/nandusingcmos/edit/main/README.md#tools-used)
-- [Author](https://github.com/prachisolanki07/nandusingcmos/edit/main/README.md#author)
-- [Acknowledgement](https://github.com/prachisolanki07/nandusingcmos/edit/main/README.md#acknowledgement)
-- [References](https://github.com/prachisolanki07/nandusingcmos/edit/main/README.md#references)
+- [ABSTRACT](https://github.com/prachisolanki07/nandusingcmos#abstract)
+- [Introduction](https://github.com/prachisolanki07/nandusingcmos#introduction)
+- [2- Input NAND Gate Using CMOS](https://github.com/prachisolanki07/nandusingcmos#2--input-nand-gate-using-cmos)
+- [Tools Used](https://github.com/prachisolanki07/nandusingcmos#tools-used)
+- [Author](https://github.com/prachisolanki07/nandusingcmos#author)
+- [Design Approach](https://github.com/prachisolanki07/nandusingcmos#design-approach)
+- [Acknowledgement](https://github.com/prachisolanki07/nandusingcmos#acknowledgement)
+- [References]( https://github.com/prachisolanki07/nandusingcmos#references)
 
 
 # Abstract
